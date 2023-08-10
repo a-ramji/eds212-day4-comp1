@@ -64,3 +64,36 @@ my_matrix + matrixA
 4 * my_matrix
 
 ```
+
+```{r}
+my_matrix * matrixA
+```
+
+```{r}
+
+cats <- matrix(data = c(0, 4, 3, 1), nrow = 2, ncol = 2, byrow = TRUE)
+
+dogs <- matrix(data = c(6, -3, 0, 2), nrow = 2, ncol = 2, byrow = TRUE)
+
+# looking at our matrices to check
+# cats
+# dogs
+```
+
+```{r}
+# dot product 
+ dogs %*% cats
+```
+
+## Leslie Matrix
+
+```{r}
+insect_leslie <- matrix(c(0, 0, 600, 0.2, 0, 0, 0, 0.08, 0), nrow = 3, ncol = 3, byrow = TRUE)
+
+# Check it out: 
+insect_leslie
+```
+
+```{r}
+
+```
