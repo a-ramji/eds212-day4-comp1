@@ -118,3 +118,5 @@ insect_y2 <- insect_leslie %*% insect_y1
 ```
 
 we'll return to this in eds 221 -- making a for loop to automate this iterative process for us!!
+
+we have fewer eggs the following cycle -- we have more larva bc they're from the previous cycle (300k)
