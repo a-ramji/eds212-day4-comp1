@@ -1,0 +1,16 @@
+---
+title: "eds212-day4-comp1"
+author: "Anna Ramji"
+date: "2023-08-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+rain <- c(1, 2, 4.1, 29)
+# check the class / type of your vector etc. by: "class(vector)" in console
+
+```
