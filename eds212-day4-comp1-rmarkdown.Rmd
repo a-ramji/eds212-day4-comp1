@@ -13,4 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 rain <- c(1, 2, 4.1, 29)
 # check the class / type of your vector etc. by: "class(vector)" in console
 
+ 
+
 ```
